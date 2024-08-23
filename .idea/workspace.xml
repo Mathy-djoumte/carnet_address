@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f719f982-d425-4dbd-92ca-68bf949e2438" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Book_address.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addbutton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/afficher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/connect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contactGraphique.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databasefile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diplay_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insert2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/updatebutton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
